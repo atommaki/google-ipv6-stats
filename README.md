@@ -6,3 +6,7 @@ This small python script displays the same sata what you can see on Google IPv6 
 
 Data source: https://www.google.com/intl/en/ipv6/statistics.html
 
+## Result
+
+![Result](https://raw.githubusercontent.com/atommaki/google-ipv6-stats/master/results/results.png)
+
