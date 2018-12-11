@@ -58,5 +58,6 @@ ax.plot(timestamps_num, fit[1]+fit[0]*timestamps_num)
 #ax.plot(timestamps, datamin)
 
 plt.grid()
+plt.savefig('results/results.png')
 plt.show()
 
